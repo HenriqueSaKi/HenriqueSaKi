@@ -5,6 +5,15 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Gradutated in Industrial Mechatronics at FATEC Santo André since 2018</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:muscle: Studying hard to become a QA tester</p>
 
+
+<h2 align='center'>
+  Languages and Technologies
+</h2>
+<p><b>Languages:</b> Python, Ruby, Java</p>
+<p><b>Technologies:</b> Selenium Webdriver, Cucumber, Capybara, HTML5, CSS3, git, Github, bash CLI</p>
+<p><b>Programming Paradigms:</b> Oriented-Object Programming</p>
+<p><b>Others:</b> Slack, Trello, Zoom, Meet</p>
+
 <h2 align='center'>
   Main Projects
 </h2>
@@ -22,14 +31,6 @@
 </h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Techinical Auxiliar at Microblau Controles e Automação since February, 2019</b></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At first, I was hired to produce, test and warrant the quality of electrical panels and electronic products. In parallel I helped coordinating and adminitrating electronic sector.</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since March 2020, I started a new position at client support department, where I learned about HVAC systems, working directly with maintenance and improvement of Microblau's controler software, Oxyn G5's website and Weintek HMI's controler software.</p>
-
-<h2 align='center'>
-  Languages and Technologies
-</h2>
-<p><b>Languages:</b> Python, Ruby, Java</p>
-<p><b>Technologies:</b> Selenium Webdriver, Cucumber, Capybara, HTML5, CSS3, git, Github, bash CLI</p>
-<p><b>Programming Paradigms:</b> Oriented-Object Programming</p>
-<p><b>Others:</b> Slack, Trello, Zoom, Meet</p>
 
 <h2 align='center'>
   Contact
