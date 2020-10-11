@@ -2,7 +2,7 @@
   About me
 </h2>
 
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Gradutated in Industrial Mechatronics at FATEC Santo André since 2018</p></br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:mortar_board: Gradutated in Industrial Mechatronics at FATEC Santo André since 2018</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:muscle: Studying hard to become a QA tester</p></br>
 
 <h2 align='center'>
