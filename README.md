@@ -10,7 +10,7 @@
   Languages and Technologies
 </h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages:</b> Python, Ruby, Java</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Technologies:</b> Selenium Webdriver, Cucumber, Capybara, HTML5, CSS3, git, Github, bash CLI, Power BI, QlikView</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Technologies:</b> Selenium Webdriver, Cucumber, Capybara, HTML5, CSS3, git, Github, bash CLI, Power BI, QlikView, Httparty, Postman</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Programming Paradigms:</b> Oriented-Object Programming</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Others:</b> Slack, Trello, Zoom, Meet, Jira</p>
 
