@@ -40,5 +40,5 @@
   <a href="https://www.instagram.com/satoshi_98/?hl=pt-br"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSaKi)](https://github.com/HenriqueSaKi/github-readme-stats)
+
 ![HenriqueSaKi's github stats](https://github-readme-stats.vercel.app/api?username=HenriqueSaKi)
