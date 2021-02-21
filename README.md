@@ -18,10 +18,8 @@
 <h2 align='center'>
   Profile Information
 </h2>
-  
-  
-  ![HenriqueSaKi's github stats](https://github-readme-stats.vercel.app/api?username=HenriqueSaKi)
-
+ 
+![HenriqueSaKi's github stats](https://github-readme-stats.vercel.app/api?username=HenriqueSaKi)
 
 <h2 align='center'>
   Contact
