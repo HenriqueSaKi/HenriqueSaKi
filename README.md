@@ -9,7 +9,7 @@
   Languages and Technologies
 </h2>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages:</b> Java, Javascript, Python, SQL Server</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Technologies:</b> Selenium Webdriver, SahiPro, HTML5, CSS3, git, Github, bash CLI, Power BI, QlikView</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Technologies:</b> Selenium Webdriver, SahiPro, Postman, HTML5, CSS3, git, Github, QlikView</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Programming Paradigms:</b> Oriented-Object Programming</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Others:</b> Slack, Trello, Zoom, Meet, Jira</p>
 
