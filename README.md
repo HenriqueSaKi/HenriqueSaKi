@@ -8,8 +8,8 @@
 <h2 align='center'>
   Languages and Technologies
 </h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages:</b> Java, Javascript, Python, SQL Server</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Technologies:</b> Selenium Webdriver, SahiPro, Postman, HTML5, CSS3, git, Github, QlikView</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages:</b> Java, Dart, Python, SQL Server</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Technologies:</b> Selenium Webdriver, Postman, Flutter, HTML5, CSS3, git, Github, Spring Boot</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Programming Paradigms:</b> Oriented-Object Programming</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Others:</b> Slack, Trello, Zoom, Meet, Jira</p>
 
@@ -17,8 +17,12 @@
 <h2 align='center'>
   Profile Information
 </h2>
- 
-![HenriqueSaKi's github stats](https://github-readme-stats.vercel.app/api?username=HenriqueSaKi)
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueSaKi&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSaKi&layout=compact&langs_count=7"/>
+</div>
 
 <h2 align='center'>
   Contact
