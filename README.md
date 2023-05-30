@@ -8,8 +8,8 @@
 <h2 align='center'>
   Languages and Technologies
 </h2>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages:</b> Java, Dart, Python, SQL Server</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Technologies:</b> Selenium Webdriver, Postman, Flutter, HTML5, CSS3, git, Github, Spring Boot</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages:</b> Java, SQL Server, Python</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Technologies:</b> Spring Framework, Postman, JMeter, Docker, HTML5, CSS3, git, Github</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Programming Paradigms:</b> Oriented-Object Programming</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Others:</b> Slack, Trello, Zoom, Meet, Jira</p>
 
