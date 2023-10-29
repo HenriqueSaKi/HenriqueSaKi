@@ -1,4 +1,6 @@
-![Github_Profile_Wallpaper](https://github.com/HenriqueSaKi/HenriqueSaKi/assets/27253114/38d967de-65f0-4294-aff2-9edc2ffa9926)
+![Github_Profile_Wallpaper](https://github.com/HenriqueSaKi/HenriqueSaKi/assets/27253114/9f441625-1302-482d-a6ec-9b4c57b33431)
+
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/henrique-satoshi/)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-Profile-informational?style=flat&logo=microsoftoutlook&logoColor=white&color=0078D4)](satoshikisaki@hotmail.com)
